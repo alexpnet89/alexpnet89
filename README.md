@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as software engineer
-- 🌱 I’m currently learning Nodejs / React
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: alexpnet89@gmail.com
 
 <div align="center">
