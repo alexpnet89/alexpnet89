@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working as software engineer
-- 🌱 I’m currently learning Java
 - 📫 How to reach me: alexpnet89@gmail.com
 
 <div align="center">
